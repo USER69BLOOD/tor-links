@@ -166,9 +166,9 @@ CryptBB focuses on security and anonymity by offering customized security measur
 
 ### <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/support-svgrepo-com.svg" alt="support" style="width:27px;height:22px;" > Support This Project
 
-If you find this educational resource helpful and would like to support its maintenance and further development, you can [Buy Me a Coffee](https://buymeacoffee.com/user69x69) to show your appreciation.
+If you find this educational resource helpful and would like to support its maintenance and further development, you can [Buy Me a Coffee](https://buymeacoffee.com/USER69BLOOD) to show your appreciation.
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/user69x69)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/USER69BLOOD)
 
 ## <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/beware.svg" alt="Beware" style="width:22px;height:22px;" > Beware of Scammers
 
