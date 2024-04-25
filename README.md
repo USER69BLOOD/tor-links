@@ -82,7 +82,7 @@ This repository includes the following sections and resources:
 - [The Tor Project](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) - `http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/`
 - [Dread](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) - `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/`
 
-### 5. <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/mailjet-icon.svg" alt="mail" style="width:17px;height:17px;" >Mails
+### 5. <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/mailjet-icon.svg" alt="mail" style="width:17px;height:17px;">Mails
 - [Onion Mails](pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion) - `pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion`
 - [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) - `http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/`
 - [Proton Mail](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) - `https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/`
@@ -120,8 +120,46 @@ CryptBB focuses on security and anonymity by offering customized security measur
 - [Clean Or Safe Secure Shoping Market](http://nemesis55zi33t4ddaqhpgygsenwwugyqf5innwy7uslo7pvxyr34kyd.onion/login) - `http://nemesis55zi33t4ddaqhpgygsenwwugyqf5innwy7uslo7pvxyr34kyd.onion/login`
 - [Another DarkWeb Market](http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/) - `http://vice2e3gr3pmaikukidllstulxvkb7a247gkguihzvyk3gqwdpolqead.onion/`
 - [Black Pyramid](http://qo5i6olq6hay524jx2smexobmcyzicaqlroka3eeqeksrofveb36a4qd.onion) - `http://qo5i6olq6hay524jx2smexobmcyzicaqlroka3eeqeksrofveb36a4qd.onion`
-- <img src="https://github.com/iamGreyEvil/SVG-logo/blob/main/logo1/abort-icon.svg" alt="|" style="width:18px;" > **WARNING**
-> **We Are Not Responsible For Any Fraud, Illegal Activity Or Damaged That's Happens To You. We Are Just Sharing This For Educational Purpose And Public Awareness**
+- --------
+  > These Market Place have been operational for an extended period.
+- [Nexus Market](http://nexusaqdfonvobs7yntaoesifh7t5mced2wbvs53uv6ddgdpgspprayd.onion) - `http://nexusaqdfonvobs7yntaoesifh7t5mced2wbvs53uv6ddgdpgspprayd.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**, **Litecoin**
+- [DarkDock Market](http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion) - `http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [MGM Grand Market ](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion`
+    > **Accepted Cryptocurrency: Bitcoin**
+- [Ares Market ](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Incognito Market](http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion) - `http://incognirftkvasqxfh2iess6cr5a243y72z3vbz75nvj2fx62a5ukpad.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**, **Ethereum**
+- [DrugHub Market](http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion) - `http://drughub3uuejhj5c7hqrd2fjh7k5y3m6ksg3s3u2upy4byzqmgr7glid.onion`
+    > **Accepted Cryptocurrency: Monero**
+- [Cypher Market](http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion) - `http://6c5qaapy6ejxcu55u3zsti2yqrkhpddo4fyapgtng2b3bpv6jny2btqd.onion`
+    > **Accepted Cryptocurrency: Bitcoin**, Monero
+- [Super Market](http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion) - `http://superxcceybzhdr6x6xvjslakt53hfcyujnku4g4zy7q6zvvjux3i3id.onion`
+    > **Accepted Cryptocurrency: Monero**
+- [Dark Matter Market](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion`
+    > **Accepted Cryptocurrency: Monero**
+- [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Go Fish Market](http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion) - `http://gofish4dbb4iofcevmcykeox6jbdu43ee2laagspkyhumvvobtwf2aad.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Kerberos Market](http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion) - `http://kerberoispgarcfojevke3m6pcz62i5vq7ftjpyea6tnrpv7vu4anjid.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Archetyp Market](http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion) - `http://arche442iyjshuhzxgm2crkhoswvshdx2bko5vkvvbnkoeo3fr6liuqd.onion`
+    > **Accepted Cryptocurrency: Monero**
+- [We The North Market (Canada)](http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion) - `http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+- [Mega Market (Russia)](http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion) - `http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**, **USDT20**
+- [Ramp Market (Russia)](http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid.onion) - `http://rampclunuztejmvknyklq3qdophzzccmejhsle5nzrfrwfdkq5vbnqid.onion`
+    > **Accepted Cryptocurrency:** Bitcoin, **Monero**
+
+    
+- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/abort-icon.svg" alt="|" style="width:18px;"> **WARNING**
+    > **We Are Not Responsible For Any Fraud, Illegal Activity Or Damaged That's Happens To You. We Are Just Sharing This For Educational Purpose And Public Awareness**
   
 ### 11. Image Host
 - [Easy Image](http://oju4yn237c6hjh42qothvpreqecnqjhtvh4sgn3fqmsdvhu5d5tyspid.onion/) - `http://oju4yn237c6hjh42qothvpreqecnqjhtvh4sgn3fqmsdvhu5d5tyspid.onion/`
@@ -187,7 +225,7 @@ This repository and its maintainers do not endorse or encourage any illegal acti
 If you have any questions, concerns, or suggestions regarding this repository, please reach out to the maintainers.
 
 
-- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/github-icon.svg" alt="github" style="width:15px;height:15px;" > **GitHub Profile**: [USER69BLOOD(https://github.com/USER69BLOOD)
+- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/github-icon.svg" alt="github" style="width:15px;height:15px;" > **GitHub Profile**: [USER69BLOOD](https://github.com/USER69BLOOD)
 - <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/instagram-icon.svg" alt="instagram" style="width:15px;height:15px;" > **Instagram:** [@user69blood](https://www.instagram.com/user69blood/)
 - <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/Gmail_icon_(2020).svg" alt="Email" style="width:15px;height:15px;" > **Email:** [USER69BLOOD@gmial.com](mailto:user69blood@gmail.com)
 
