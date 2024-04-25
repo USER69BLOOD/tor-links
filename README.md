@@ -187,7 +187,9 @@ This repository and its maintainers do not endorse or encourage any illegal acti
 If you have any questions, concerns, or suggestions regarding this repository, please reach out to the maintainers.
 
 
-- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/github-icon.svg" alt="github" style="width:15px;height:15px;" > **GitHub Profile**: [USER69BLOOD](https://github.com/USER69BLOOD)
+- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/github-icon.svg" alt="github" style="width:15px;height:15px;" > **GitHub Profile**: [USER69BLOOD(https://github.com/USER69BLOOD)
+- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/instagram-icon.svg" alt="instagram" style="width:15px;height:15px;" > **Instagram:** [@user69blood](https://www.instagram.com/user69blood/)
+- <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/Gmail_icon_(2020).svg" alt="Email" style="width:15px;height:15px;" > **Email:** [USER69BLOOD@gmial.com](mailto:user69blood@gmail.com)
 
 > **We Are Not Responsible For Any Fraud, Illegal Activity Or Damaged That's Happens To You. We Are Just Sharing This For Educational Purpose And Public Awareness**
 **Note:**
