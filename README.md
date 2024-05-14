@@ -222,7 +222,7 @@ This repository and its maintainers do not endorse or encourage any illegal acti
 
 ## <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/contacts-svgrepo-com.svg" alt="contact" style="width:18px;height:18px;" > Contact
 
-If you have any questions, concerns, or suggestions regarding this repository, please reach out to the maintainers
+If you have any questions, concerns, or suggestions regarding this repository, please reach out to the maintainers.
 
 
 - <img src="https://github.com/USER69BLOOD/Darkweb-links/blob/main/assests/images/github-icon.svg" alt="github" style="width:15px;height:15px;" > **GitHub Profile**: [USER69BLOOD](https://github.com/USER69BLOOD)
